@@ -1,1 +1,1 @@
-worker: python "crypto_idx_bot_v5 (6).py"
+python crypto_idx_bot_v6.py
